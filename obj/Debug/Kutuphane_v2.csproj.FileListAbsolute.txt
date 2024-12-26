@@ -1,0 +1,12 @@
+C:\Users\Mustafa\Desktop\cSharp_Projects\Kutuphane_v2\Kutuphane_v2\bin\Debug\Kutuphane_v2.exe.config
+C:\Users\Mustafa\Desktop\cSharp_Projects\Kutuphane_v2\Kutuphane_v2\bin\Debug\Kutuphane_v2.exe
+C:\Users\Mustafa\Desktop\cSharp_Projects\Kutuphane_v2\Kutuphane_v2\bin\Debug\Kutuphane_v2.pdb
+C:\Users\Mustafa\Desktop\cSharp_Projects\Kutuphane_v2\Kutuphane_v2\obj\Debug\Kutuphane_v2.csproj.AssemblyReference.cache
+C:\Users\Mustafa\Desktop\cSharp_Projects\Kutuphane_v2\Kutuphane_v2\obj\Debug\Kutuphane_v2.Form1.resources
+C:\Users\Mustafa\Desktop\cSharp_Projects\Kutuphane_v2\Kutuphane_v2\obj\Debug\Kutuphane_v2.Properties.Resources.resources
+C:\Users\Mustafa\Desktop\cSharp_Projects\Kutuphane_v2\Kutuphane_v2\obj\Debug\Kutuphane_v2.csproj.GenerateResource.cache
+C:\Users\Mustafa\Desktop\cSharp_Projects\Kutuphane_v2\Kutuphane_v2\obj\Debug\Kutuphane_v2.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\Desktop\cSharp_Projects\Kutuphane_v2\Kutuphane_v2\obj\Debug\Kutuphane_v2.exe
+C:\Users\Mustafa\Desktop\cSharp_Projects\Kutuphane_v2\Kutuphane_v2\obj\Debug\Kutuphane_v2.pdb
+C:\Users\Mustafa\Desktop\cSharp_Projects\Kutuphane_v2\Kutuphane_v2\obj\Debug\Kutuphane_v2.Giris.resources
+C:\Users\Mustafa\Desktop\cSharp_Projects\Kutuphane_v2\Kutuphane_v2\obj\Debug\Kutuphane_v2.Mudur.resources
